@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kstephens1/mongoconnect/issues"
   },
-  "homepage": "https://github.com/kstephens1/mongoconnect#readme"
+  "homepage": "https://github.com/kstephens1/mongoconnect#readme",
+  "dependencies": {
+    "mongodb": "^2.2.24"
+  }
 }
