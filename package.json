@@ -1,0 +1,23 @@
+{
+  "name": "mongoconnect",
+  "version": "1.0.0",
+  "description": "Mongo Connection from Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kstephens1/mongoconnect.git"
+  },
+  "keywords": [
+    "mongo",
+    "nodeJS"
+  ],
+  "author": "Keith Stephens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kstephens1/mongoconnect/issues"
+  },
+  "homepage": "https://github.com/kstephens1/mongoconnect#readme"
+}
